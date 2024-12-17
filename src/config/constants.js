@@ -1,0 +1,1 @@
+export const REDIRECT_URI = 'https://canvagreenvite.marisolbasilio.repl.co/callback';
